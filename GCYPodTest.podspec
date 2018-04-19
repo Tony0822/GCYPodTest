@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-看看能不能使用
+看看能不能使用,还希望大家给提好的建议
                        DESC
 
   s.homepage         = 'https://github.com/Tony0822/GCYPodTest'
