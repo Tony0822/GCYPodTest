@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'GCYPodTest'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of GCYPodTest.'
+  s.summary          = 'GCYPodTest就是一个测试'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+看看能不能使用
                        DESC
 
   s.homepage         = 'https://github.com/Tony0822/GCYPodTest'

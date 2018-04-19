@@ -1,0 +1,16 @@
+PODS:
+  - GCYPodTest (0.1.0)
+
+DEPENDENCIES:
+  - GCYPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  GCYPodTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GCYPodTest: c68c192da1b44c11db136bc565fdb963bdde50f0
+
+PODFILE CHECKSUM: c5c7d7acc7ddce13317a90f99d5a0e13097bfbbe
+
+COCOAPODS: 1.3.1

@@ -1,0 +1,22 @@
+{
+  "name": "GCYPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of GCYPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Tony0822/GCYPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tony0822": "gaochongyang@enmonster.com"
+  },
+  "source": {
+    "git": "https://github.com/Tony0822/GCYPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GCYPodTest/Classes/**/*"
+}
