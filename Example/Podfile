@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GCYPodTest_Tests' do
+  pod 'GCYPodTest', :path => '../'
+  
+  
+end
